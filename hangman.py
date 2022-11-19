@@ -42,3 +42,5 @@ def displayHint(board):
     print('ヒント')
     print(display)
     print('\n')
+def testman():
+    print('o')
