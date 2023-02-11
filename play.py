@@ -29,4 +29,5 @@ else:
     print('出題者の勝ち')
     print('答えは{}'.format(word))
 print('{}戦{}勝{}負'.format(tempdata[2][1],tempdata[0][1],tempdata[1][1]))
+print('fake');
 
